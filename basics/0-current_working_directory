@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '/root/git/holbertonschool-shell/basics'
+pwd
