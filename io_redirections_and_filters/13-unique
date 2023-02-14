@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq < hola
+sort hoja1 | uniq
